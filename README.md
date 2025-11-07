@@ -1,15 +1,20 @@
-<h2 align="left">Hi 👋! I'm <strong>Saurav Panth</strong> — an Enthusiastic & Detail-Oriented Java Developer</h2>
-
-###
-
+<!---<h2 align="left">Hi 👋! I'm <strong>Saurav Panth</strong> — an Enthusiastic & Detail-Oriented Java Developer</h2>-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurav-panth&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav-panth&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="languages graph" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E95420&width=435&lines=Hi+I'm+Saurav+Panth!;Java+Developer+%7C+Tech+Enthusiast;Building+Scalable+Applications" alt="Typing SVG" />
 </div>
 
----
 
-### 💻 Programming Languages
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saurav-panth&theme=dracula&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurav-panth&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav-panth&layout=compact&theme=dracula&hide_border=false&langs_count=6&cache_seconds=1800" height="150" alt="languages graph" />
+</div>
+
+<br><br>
+
+ 💻 Programming Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
@@ -23,7 +28,7 @@
 
 ---
 
-### 🌐 Web & Frameworks
+ 🌐 Web & Frameworks
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
@@ -39,7 +44,7 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+ 🛠️ Tools & Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
@@ -50,14 +55,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" height="30" alt="javafx logo" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="25" alt="render logo" />
 </div>
 
 ---
 
-### ☁️ Databases & Servers
+ ☁️ Databases & Servers
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
@@ -67,7 +70,8 @@
 
 ---
 
-### 📫 Connect with Me
+
+ 📫 Connect with Me
 
 <div align="left">
   <a href="mailto:panthsaurav17@gmail.com" target="_blank">
@@ -78,18 +82,17 @@
   </a>
 </div>
 
----
 
-### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Saurav-panth&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-</div>
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/Chirag7987/Chirag7987/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Saurav-panth&icon=0&color=0" alt="Profile Views" />
-</p>
 
-<!-- Proudly Created & Styled by GPT-5 with ❤️ for Saurav Panth -->
+***
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Saurav-panth&style=for-the-badge&color=blue)
+
+<!---![Spotify](https://novatorem.vercel.app/api/spotify)
+--->
