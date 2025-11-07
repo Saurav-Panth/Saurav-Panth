@@ -2,14 +2,6 @@
 
 ###
 
-<p align="left">
-Passionate about crafting efficient code, solving complex problems, and building high-quality software solutions.
-<br>With a strong foundation in <b>Core Java</b>, <b>OOP</b>, <b>Data Structures</b>, and <b>Algorithms</b>, 
-I love contributing to impactful and scalable applications.
-</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saurav-panth&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav-panth&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="languages graph" />
