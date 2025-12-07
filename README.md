@@ -94,5 +94,4 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Saurav-panth&style=for-the-badge&color=blue)
 
-<!---![Spotify](https://novatorem.vercel.app/api/spotify)
---->
+
