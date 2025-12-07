@@ -7,12 +7,12 @@
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saurav-panth&theme=dracula&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saurav-panth&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav-panth&layout=compact&theme=dracula&hide_border=false&langs_count=6&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
 
-<br><br>
+<br><br> -->
 
  💻 Programming Languages
 
